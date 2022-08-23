@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="146" started-at="2022-07-26T17:48:22Z" finished-at="2022-07-26T17:48:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="146" started-at="2022-07-26T17:48:22Z" finished-at="2022-07-26T17:48:22Z">
+      <class name="org.testng.TestNgOne">
+        <test-method status="PASS" signature="test9()[pri:0, instance:org.testng.TestNgOne@5594a1b5]" name="test9" is-config="true" duration-ms="91" started-at="2022-07-26T23:18:22Z" finished-at="2022-07-26T23:18:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+        <test-method status="PASS" signature="test10()[pri:0, instance:org.testng.TestNgOne@5594a1b5]" name="test10" is-config="true" duration-ms="5" started-at="2022-07-26T23:18:22Z" finished-at="2022-07-26T23:18:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method status="PASS" signature="test6()[pri:0, instance:org.testng.TestNgOne@5594a1b5]" name="test6" is-config="true" duration-ms="6" started-at="2022-07-26T23:18:22Z" finished-at="2022-07-26T23:18:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="test8()[pri:0, instance:org.testng.TestNgOne@5594a1b5]" name="test8" is-config="true" duration-ms="5" started-at="2022-07-26T23:18:22Z" finished-at="2022-07-26T23:18:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method status="PASS" signature="test12()[pri:0, instance:org.testng.TestNgOne@5594a1b5]" name="test12" duration-ms="18" started-at="2022-07-26T23:18:22Z" finished-at="2022-07-26T23:18:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:org.testng.TestNgOne@5594a1b5]" name="test3" is-config="true" duration-ms="4" started-at="2022-07-26T23:18:22Z" finished-at="2022-07-26T23:18:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:org.testng.TestNgOne@5594a1b5]" name="test1" is-config="true" duration-ms="0" started-at="2022-07-26T23:18:22Z" finished-at="2022-07-26T23:18:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:org.testng.TestNgOne@5594a1b5]" name="test5" is-config="true" duration-ms="1" started-at="2022-07-26T23:18:22Z" finished-at="2022-07-26T23:18:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:org.testng.TestNgOne@5594a1b5]" name="test4" is-config="true" duration-ms="0" started-at="2022-07-26T23:18:22Z" finished-at="2022-07-26T23:18:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- org.testng.TestNgOne -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
